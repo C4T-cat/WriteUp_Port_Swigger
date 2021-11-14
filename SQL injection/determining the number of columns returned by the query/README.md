@@ -15,6 +15,8 @@ Sau khi vào trang web, chúng ta sử dụng Burp Suit để chặn request khi
 Sau đó gửi request đến Repeater, chúng ta thay đổi giá trị truyền vào category thành **'UNION select NULL--** rồi Sent. 
  ![image](https://user-images.githubusercontent.com/72268643/141677691-3c39a161-2dbe-4bbd-81d6-96fa7e8db870.png)
 
+**Lưu ý: Khi truyền vào cần thay ' ' thành '+' 
+
 Ta thấy Internal Server Error do chưa truyền đúng số cột.
     
 Tiếp tục thử lại bằng cách tăng số cột nhập vào: **'UNION select NULL, NULL, NULL--** t thấy Respone đã trả về kết quả.
