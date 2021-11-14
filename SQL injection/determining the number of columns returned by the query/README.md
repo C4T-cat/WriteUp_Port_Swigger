@@ -7,7 +7,7 @@
 ## Writeup
 Chúng ta có 2 cách để xác định số cột:
   
-Cách 1: Sử dụng **'UNION select NULL--**
+### Cách 1: Sử dụng 'UNION select NULL--
 
 Sau khi vào trang web, chúng ta sử dụng Burp Suit để chặn request khi chọn một thư lục bất kì trên trang web. 
 ![image](https://user-images.githubusercontent.com/72268643/141676724-b888ce58-fdff-4f3b-9f98-9adb3f6155eb.png)
@@ -23,7 +23,7 @@ Tiếp tục thử lại bằng cách tăng số cột nhập vào: **'UNION sel
 => Hoàn thành lab  
 ![image](https://user-images.githubusercontent.com/72268643/141677446-b11a0f6f-46ee-4bff-9098-32ba1ff84edb.png)
 
-Cách 2: Sử dụng **'ORDER BY number--**
+### Cách 2: Sử dụng 'ORDER BY number--
   
 Truyền vào trong category 'ORDER BY 1-- để xem web có đúng 1 cột dữ liệu không. Nếu không thì tiếp tực thử lại và tăng số lượng cho đến khi bị lỗi .
 ![image](https://user-images.githubusercontent.com/72268643/141677291-0bf0022d-2c0b-4b84-b6cb-a2650d15f943.png)
