@@ -6,7 +6,7 @@
 
 ## WriteUp: 
 
-Đầu tiên xác định số trường dữ liệu tồn tại trong trang web như bài [Lab 1]() ta xác định được 3 trường dữ liệu
+Đầu tiên xác định số trường dữ liệu tồn tại trong trang web như bài [Lab 1](https://github.com/C4T-cat/WriteUp_Port_Swigger/tree/main/SQL%20injection/determining%20the%20number%20of%20columns%20returned%20by%20the%20query) ta xác định được 3 trường dữ liệu
 
 ![image](https://user-images.githubusercontent.com/72268643/142391285-8017fcb9-607c-44f2-b9d5-590ab1325206.png)
 
