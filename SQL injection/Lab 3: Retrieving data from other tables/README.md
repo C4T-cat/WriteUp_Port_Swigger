@@ -8,6 +8,8 @@ Lấy dữ liệu từ bảng cột **username** và **password** của bảng *
  
 Vì đã biết trước có cột **username** và **password** của bảng **users** nên ta thực hiện câu lệnh **'UNION SELECT username,password FROM users--** để truy cập.
 
+**Lưu ý:** Vì chúng ta truy vấn tên bảng nên không để vào **''**
+
 ![image](https://user-images.githubusercontent.com/72268643/142446216-1d9f1534-b95f-4e65-a8f3-5644727077f2.png)
 
 Vậy tài khoản admin là: **administrator/jhjgqvbktnspmrnjrjeh**
