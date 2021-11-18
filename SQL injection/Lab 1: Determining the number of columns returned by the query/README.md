@@ -29,7 +29,7 @@ Tiếp tục thử lại bằng cách tăng số cột nhập vào: **'UNION sel
 Truyền vào trong category 'ORDER BY 1-- để xem web có đúng 1 cột dữ liệu không. Nếu không thì tiếp tực thử lại và tăng số lượng cho đến khi bị lỗi .
 ![image](https://user-images.githubusercontent.com/72268643/141677291-0bf0022d-2c0b-4b84-b6cb-a2650d15f943.png)
 
-Khi thử với 4, t thấy trang web bị lỗi => số cột sẽ là 3.
+Khi thử với 4, t thấy trang web bị lỗi => số cột sẽ là 3 => ***DONE***
 ![image](https://user-images.githubusercontent.com/72268643/141677311-d24ad497-cf2a-4201-a039-b3dc5bdd503e.png)
   
   
