@@ -14,6 +14,6 @@ Sau đó xác định xem cột nào có dữ liệu là **5HQ9ju** bằng cách
 
 **'UNION select '5HQ9ju',NULL,NULL--** hoặc **'UNION select NULL,'5HQ9ju',NULL--** hoặc **'UNION select NULL,NULL,'5HQ9ju'--**
 
-Ta có được thông báo hoàn thành lab với dữ liệu ở cột thứ 2 => **DONE**
+Ta có được thông báo hoàn thành lab với dữ liệu ở cột thứ 2 => ***DONE***
 
 ![image](https://user-images.githubusercontent.com/72268643/142392570-48ee4a9f-e6fc-411b-92ba-dcdde64513a8.png)
