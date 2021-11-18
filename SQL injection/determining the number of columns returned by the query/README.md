@@ -1,5 +1,5 @@
 
-# Lab #1: SQL injection UNION attack, determining the number of columns returned by the query
+# Lab 1: Determining the number of columns returned by the query
 
 ## Yêu cầu 
   Xác định số cột được trả về bởi query bằng SQLi UNION
