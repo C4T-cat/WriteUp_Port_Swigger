@@ -4,7 +4,7 @@
 
 ![image](https://user-images.githubusercontent.com/72268643/142391391-010f39de-977d-4a9b-9a63-e64f18286721.png)
 
-## Bước làm: 
+## WriteUp: 
 
 Đầu tiên xác định số trường dữ liệu tồn tại trong trang web như bài [Lab 1]() ta xác định được 3 trường dữ liệu
 
