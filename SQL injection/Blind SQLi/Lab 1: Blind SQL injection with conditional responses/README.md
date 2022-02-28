@@ -1,4 +1,4 @@
-# Lab 11: Blind SQL injection with conditional responses
+# Lab 1: Blind SQL injection with conditional responses
 
 ** Yêu cầu: Truy vấn qua Cookies và đăng nhập vào bằng tài khoản của administrator
 
