@@ -1,14 +1,14 @@
 # SQL injection (SQLi)
 
-## 1) SQLi là gì?
+### 1) SQLi là gì?
 
-## 2) Phát hiện SQLi
+### 2) Phát hiện SQLi
 
-## 3) Khai thác SQLi
+### 3) Khai thác SQLi
 
-## 4) Ngăn chặn SQLi
+### 4) Ngăn chặn SQLi
 
-## 5) Writeup các lab trên PortSwigger
+### 5) Writeup các lab trên PortSwigger
 
 | Thứ tự | Tên & Writeup |
 |-|-|
