@@ -12,13 +12,11 @@
 
 | Tình trạng | Tên |
 |:-:|-|
-| ✔ | [Lab 1: ]() |
-| ❌ | [Lab 2: ]() |
-| ❌ | [Lab 3: ]() |
-| ❌ | [Lab 4: ]() |
-| ❌ | [Lab 5: ]() |
-| ❌ | [Lab 6: ]() |
-| ❌ | [Lab 7: ]() |
-| ❌ | [Lab 8: ]() |
-| ❌ | [Lab 9: ]() |
-| ❌ | [Lab 10: ]() |
+| ✔ | [DOM XSS in document.write sink using source location.search]() |
+| ❌ | [DOM XSS in innerHTML sink using source location.search]() |
+| ❌ | [DOM XSS in jQuery anchor href attribute sink using location.search source]() |
+| ❌ | [DOM XSS in jQuery selector sink using a hashchange event]() |
+| ❌ | [DOM XSS in document.write sink using source location.search inside a select element]() |
+| ❌ | [DOM XSS in AngularJS expression with angle brackets and double quotes HTML-encoded]() |
+| ❌ | [Reflected DOM XSS]() |
+| ❌ | [Stored DOM XSS]() |
