@@ -10,7 +10,7 @@
 
 ### 5) Writeup các lab trên PortSwigger
 
-| Tình trạng | Tên |
+| Tình trạng | Thứ tự: Tên |
 |:-:|-|
 | ✔ | [Lab 1: SQL injection vulnerability in WHERE clause allowing retrieval of hidden data](https://github.com/C4T-cat/WriteUp_Port_Swigger/tree/main/SQL%20injection/Lab%201:%20Determining%20the%20number%20of%20columns%20returned%20by%20the%20query) |
 | ✔ | [Lab 2: SQL injection vulnerability allowing login bypass](https://github.com/C4T-cat/WriteUp_Port_Swigger/tree/main/SQL%20injection/Lab%202:%20Finding%20a%20column%20containing%20text) |
