@@ -15,4 +15,3 @@
 | ✔ | [Stored XSS into HTML context with nothing encoded]() |
 | ❌ | [Stored XSS into anchor href attribute with double quotes HTML-encoded]() |
 | ❌ | [Stored XSS into onclick event with angle brackets and double quotes HTML-encoded and single quotes and backslash escaped]() |
-| ❌ | [Stored DOM XSS]() |
