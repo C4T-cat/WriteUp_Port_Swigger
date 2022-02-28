@@ -12,13 +12,7 @@
 
 | Tình trạng | Tên |
 |:-:|-|
-| ✔ | [Lab 1: ]() |
-| ❌ | [Lab 2: ]() |
-| ❌ | [Lab 3: ]() |
-| ❌ | [Lab 4: ]() |
-| ❌ | [Lab 5: ]() |
-| ❌ | [Lab 6: ]() |
-| ❌ | [Lab 7: ]() |
-| ❌ | [Lab 8: ]() |
-| ❌ | [Lab 9: ]() |
-| ❌ | [Lab 10: ]() |
+| ✔ | [Stored XSS into HTML context with nothing encoded]() |
+| ❌ | [Stored XSS into anchor href attribute with double quotes HTML-encoded]() |
+| ❌ | [Stored XSS into onclick event with angle brackets and double quotes HTML-encoded and single quotes and backslash escaped]() |
+| ❌ | [Stored DOM XSS]() |
