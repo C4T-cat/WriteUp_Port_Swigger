@@ -10,21 +10,8 @@
 
 ### 5) Writeup các lab trên PortSwigger
 
-| Tình trạng | Thứ tự + Tên |
-|-|-|
-| ✔ | [Lab 1: ]() |
-| ❌ | [Lab 2: ]() |
-| ❌ | [Lab 3: ]() |
-| ❌ | [Lab 4: ]() |
-| ❌ | [Lab 5: ]() |
-| ❌ | [Lab 6: ]() |
-| ❌ | [Lab 7: ]() |
-| ❌ | [Lab 8: ]() |
-| ❌ | [Lab 9: ]() |
-| ❌ | [Lab 10: ]() |
-| ❌ | [Lab 11: ]() |
-| ❌ | [Lab 12: ]() |
-| ❌ | [Lab 13: ]() |
-| ❌ | [Lab 14: ]() |
-| ❌ | [Lab 15: ]() |
-| ❌ | [Lab 16: ]() |
+| Tình trạng | Tên |
+|:-:|-|
+| 📁 | [Reflected XSS ](https://github.com/C4T-cat/WriteUp_Port_Swigger/tree/main/Cross-Site%20Scripting%20(XSS)/Reflected%20XSS) |
+| 📁 | [Stored XSS ](https://github.com/C4T-cat/WriteUp_Port_Swigger/tree/main/Cross-Site%20Scripting%20(XSS)/Stored%20XSS) |
+| 📁 | [DOM-based XSS ](https://github.com/C4T-cat/WriteUp_Port_Swigger/tree/main/Cross-Site%20Scripting%20(XSS)/DOM-bases) |
