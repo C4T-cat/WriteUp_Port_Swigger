@@ -1,4 +1,6 @@
-**Yêu cầu: Truy vấn qua Cookies và đăng nhập vào bằng tài khoản của administrator
+# Lab 11: Blind SQL injection with conditional responses
+
+** Yêu cầu: Truy vấn qua Cookies và đăng nhập vào bằng tài khoản của administrator
 
 Đầu tiên chúng ta sẽ chặn truy vấn bằng Burp Suit sau đó gửi đến Repeater để xử lý các bước tiếp theo.
 
