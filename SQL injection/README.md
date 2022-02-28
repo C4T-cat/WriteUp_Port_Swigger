@@ -22,9 +22,4 @@
 | ✔ | [Lab 8: SQL injection attack, querying the database type and version on MySQL and Microsoft](https://github.com/C4T-cat/WriteUp_Port_Swigger/tree/main/SQL%20injection/Lab%208:%20Listing%20the%20database%20contents%20on%20Oracle) |
 | ❌ | [Lab 9: SQL injection attack, listing the database contents on non-Oracle databases](https://github.com/C4T-cat/WriteUp_Port_Swigger/tree/main/SQL%20injection/Lab%209:%20SQL%20injection%20attack,%20listing%20the%20database%20contents%20on%20non-Oracle%20databases) |
 | ❌ | [Lab 10: SQL injection attack, listing the database contents on Oracle](https://github.com/C4T-cat/WriteUp_Port_Swigger/tree/main/SQL%20injection/Lab%2010:%20SQL%20injection%20attack,%20listing%20the%20database%20contents%20on%20Oracle) |
-| ✔ | [Lab 11: Blind SQL injection with conditional responses](https://github.com/C4T-cat/WriteUp_Port_Swigger/tree/main/SQL%20injection/Blind%20SQLi/Lab%2011:%20Blind%20SQL%20injection%20with%20conditional%20responses) |
-| ❌ | [Lab 12: Blind SQL injection with conditional errors](https://github.com/C4T-cat/WriteUp_Port_Swigger/tree/main/SQL%20injection/Blind%20SQLi/Lab%2012:%20Blind%20SQL%20injection%20with%20conditional%20errors) |
-| ❌ | [Lab 13: Blind SQL injection with time delays](https://github.com/C4T-cat/WriteUp_Port_Swigger/tree/main/SQL%20injection/Blind%20SQLi/Lab%2013:%20Blind%20SQL%20injection%20with%20time%20delays) |
-| ❌ | [Lab 14: Blind SQL injection with time delays and information retrieval](https://github.com/C4T-cat/WriteUp_Port_Swigger/tree/main/SQL%20injection/Blind%20SQLi/Lab%2014:%20Blind%20SQL%20injection%20with%20time%20delays%20and%20information%20retrieval) |
-| ❌ | [Lab 15: Blind SQL injection with out-of-band interaction](https://github.com/C4T-cat/WriteUp_Port_Swigger/tree/main/SQL%20injection/Blind%20SQLi/Lab%2015:%20Blind%20SQL%20injection%20with%20out-of-band%20interaction) |
-| ❌ | [Lab 16: Blind SQL injection with out-of-band data exfiltration](https://github.com/C4T-cat/WriteUp_Port_Swigger/tree/main/SQL%20injection/Blind%20SQLi/Lab%2016:%20Blind%20SQL%20injection%20with%20out-of-band%20data%20exfiltration) |
+| 📁 | [Lab 11->16: Blind SQLi]() |
