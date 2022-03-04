@@ -2,13 +2,15 @@
 
 ### 1) XSS là gì ❓
 
-### 2) Phát hiện XSS 🔎
+### 2) Mối đe dọa XSS ⚠
 
-### 3) Khai thác XSS ⚔
+### 3) Phát hiện XSS 🔎
 
-### 4) Ngăn chặn XSS 🛡
+### 4) Khai thác XSS ⚔
 
-### 5) Writeup các lab trên PortSwigger
+### 5) Ngăn chặn XSS 🛡
+
+### 6) Writeup các lab trên PortSwigger
 
 | Tình trạng | Tên |
 |:-:|-|
