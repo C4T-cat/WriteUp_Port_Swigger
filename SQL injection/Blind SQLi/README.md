@@ -2,13 +2,15 @@
 
 ### 1) Blind SQLi là gì ❓
 
-### 2) Phát hiện Blind SQLi 🔎
+### 2) Mối đe dọa Blind SQLi ⚠
 
-### 3) Khai thác Blind SQLi ⚔
+### 3) Phát hiện Blind SQLi 🔎
 
-### 4) Ngăn chặn Blind SQLi 🛡
+### 4) Khai thác Blind SQLi ⚔
 
-### 5) Writeup các lab trên PortSwigger
+### 5) Ngăn chặn Blind SQLi 🛡
+
+### 6) Writeup các lab trên PortSwigger
 
 | Tình trạng | Thứ tự: Tên |
 |:-:|-|
