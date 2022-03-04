@@ -2,13 +2,15 @@
 
 ### 1) Stored XSS là gì ❓
 
-### 2) Phát hiện Stored XSS 🔎
+### 2) Mối đe dọa Stored XSS ⚠
 
-### 3) Khai thác Stored XSS ⚔
+### 3) Phát hiện Stored XSS 🔎
 
-### 4) Ngăn chặn Stored XSS 🛡
+### 4) Khai thác Stored XSS ⚔
 
-### 5) Writeup các lab trên PortSwigger
+### 5) Ngăn chặn Stored XSS 🛡
+
+### 6) Writeup các lab trên PortSwigger
 
 | Tình trạng | Tên |
 |:-:|-|
