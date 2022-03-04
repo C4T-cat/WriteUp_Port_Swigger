@@ -2,15 +2,13 @@
 
 ### 1) SQLi là gì ❓
 
-### 2) Mối đe dọa SQLi ⚠
+### 2) Phát hiện SQLi 🔎
 
-### 3) Phát hiện SQLi 🔎
+### 3) Khai thác SQLi ⚔
 
-### 4) Khai thác SQLi ⚔
+### 4) Ngăn chặn SQLi 🛡
 
-### 5) Ngăn chặn SQLi 🛡
-
-### 6) Writeup các lab trên PortSwigger
+### 5) Writeup các lab trên PortSwigger
 
 | Tình trạng | Thứ tự: Tên |
 |:-:|-|
