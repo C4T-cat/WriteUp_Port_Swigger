@@ -3,13 +3,15 @@
 
 ### 1) Reflected XSS là gì ❓
 
-### 2) Phát hiện Reflected XSS 🔎
+### 2) Mối đe dọa Reflected XSS ⚠
 
-### 3) Khai thác Reflected XSS ⚔
+### 3) Phát hiện Reflected XSS 🔎
 
-### 4) Ngăn chặn Reflected XSS 🛡
+### 4) Khai thác Reflected XSS ⚔
 
-### 5) Writeup các lab trên PortSwigger
+### 5) Ngăn chặn Reflected XSS 🛡
+
+### 6) Writeup các lab trên PortSwigger
 
 | Tình trạng | Tên |
 |:-:|-|
