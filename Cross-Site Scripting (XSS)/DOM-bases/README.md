@@ -2,13 +2,15 @@
 
 ### 1) DOM-bases XSS là gì ❓
 
-### 2) Phát hiện DOM-bases XSS 🔎
+### 2) Mối đe dọa ĐOM-bases XSS ⚠
 
-### 3) Khai thác DOM-bases XSS ⚔
+### 3) Phát hiện DOM-bases XSS 🔎
 
-### 4) Ngăn chặn DOM-bases XSS 🛡
+### 4) Khai thác DOM-bases XSS ⚔
 
-### 5) Writeup các lab trên PortSwigger
+### 5) Ngăn chặn DOM-bases XSS 🛡
+
+### 6) Writeup các lab trên PortSwigger
 
 | Tình trạng | Tên |
 |:-:|-|
