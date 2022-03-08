@@ -25,10 +25,10 @@ Cách hiệu quả nhất để ngăn chặn các lỗ hổng directory traversa
 
 | Tình trạng | Tên |
 |:-:|-|
-| ✔ | [File path traversal, simple case]() |
-| ❌ | [File path traversal, traversal sequences blocked with absolute path bypass]() |
-| ❌ | [File path traversal, traversal sequences stripped non-recursively]() |
-| ❌ | [File path traversal, traversal sequences stripped with superfluous URL-decode]() |
-| ❌ | [File path traversal, validation of start of path]() |
-| ❌ | [File path traversal, validation of file extension with null byte bypass]() |
+| ✔ | [File path traversal, simple case](https://github.com/C4T-cat/WriteUp_Port_Swigger/tree/main/Path%20Traversal/File%20path%20traversal%2C%20simple%20case) |
+| ✔ | [File path traversal, traversal sequences blocked with absolute path bypass](https://github.com/C4T-cat/WriteUp_Port_Swigger/tree/main/Path%20Traversal/File%20path%20traversal%2C%20traversal%20sequences%20blocked%20with%20absolute%20path%20bypass) |
+| ✔ | [File path traversal, traversal sequences stripped non-recursively](https://github.com/C4T-cat/WriteUp_Port_Swigger/tree/main/Path%20Traversal/File%20path%20traversal%2C%20traversal%20sequences%20stripped%20non-recursively) |
+| ✔ | [File path traversal, traversal sequences stripped with superfluous URL-decode](https://github.com/C4T-cat/WriteUp_Port_Swigger/tree/main/Path%20Traversal/File%20path%20traversal%2C%20traversal%20sequences%20stripped%20with%20superfluous%20URL-decode) |
+| ✔ | [File path traversal, validation of start of path](https://github.com/C4T-cat/WriteUp_Port_Swigger/tree/main/Path%20Traversal/File%20path%20traversal%2C%20validation%20of%20file%20extension%20with%20null%20byte%20bypass) |
+| ✔ | [File path traversal, validation of file extension with null byte bypass](https://github.com/C4T-cat/WriteUp_Port_Swigger/tree/main/Path%20Traversal/File%20path%20traversal,%20validation%20of%20file%20extension%20with%20null%20byte%20bypass) |
 
