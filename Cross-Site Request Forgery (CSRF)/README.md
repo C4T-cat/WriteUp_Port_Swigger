@@ -20,4 +20,4 @@ CSRF (Cross Site Request Forgery) là kỹ thuật tấn công bằng cách **s�
 | ✔ | [CSRF where token is tied to non-session cookie](https://github.com/C4T-cat/WriteUp_Port_Swigger/tree/main/Cross-Site%20Request%20Forgery%20(CSRF)/CSRF%20where%20token%20is%20tied%20to%20non-session%20cookie) |
 | ✔ | [CSRF where token is duplicated in cookie](https://github.com/C4T-cat/WriteUp_Port_Swigger/tree/main/Cross-Site%20Request%20Forgery%20(CSRF)/CSRF%20where%20token%20is%20duplicated%20in%20cookie) |
 | ✔ | [CSRF where Referer validation depends on header being present](https://github.com/C4T-cat/WriteUp_Port_Swigger/tree/main/Cross-Site%20Request%20Forgery%20(CSRF)/CSRF%20where%20token%20validation%20depends%20on%20token%20being%20present) |
-| ✔ | [CSRF with broken Referer validation](https://github.com/C4T-cat/WriteUp_Port_Swigger/tree/main/Cross-site%20request%20forgery%20(CSRF)/CSRF%20with%20broken%20Referer%20validation) |
+| ✔ | [CSRF with broken Referer validation](https://github.com/C4T-cat/WriteUp_Port_Swigger/tree/main/Cross-Site%20Request%20Forgery%20(CSRF)/CSRF%20with%20broken%20Referer%20validation) |
