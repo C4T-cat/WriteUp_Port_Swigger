@@ -13,18 +13,18 @@ Có thể sử dụng nhiều tài khoản ở các mức độ khác nhau để
   - Không có các thông số đoán trước không có cơ sở (chẳng hạn như thay đổi mật khẩu thì phải có mật khẩu hiện tại)
 
 Khi đã có đủ điều kiện này, người dùng có thể chịu các mất mát sau: 
-  +) Đánh cắp dữ liệu, tài sản quan trọng của nạn nhân.
-  +) Thực hiện các hành động đặc quyền trên các tài khoản quan trọng bị CSRF.
-  +) Gây ra các Worm trên các nền tảng MXH, dễ dàng mở rộng phạm vị với các file mã động được đính kèm.
+  - Đánh cắp dữ liệu, tài sản quan trọng của nạn nhân.
+  - Thực hiện các hành động đặc quyền trên các tài khoản quan trọng bị CSRF.
+  - Gây ra các Worm trên các nền tảng MXH, dễ dàng mở rộng phạm vị với các file mã động được đính kèm.
 
 ### 4) Ngăn chặn CSRF 🛡
-  a) Phía User
+  * Phía User
     - Không click vào các đường dẫn lạ.
     - Đăng xuất khỏi các tài khoản quan trọng mỗi khi dùng xong cũng như hạn chế việc lưu mật khẩu.
     - Khi thực hiện các thao tác quan trọng thì không nên vào các trang web khác.
     - Bảo vệ người thân xung quanh bằng việc tuyên truyền các điều trên
     
-  b) Phía Client
+  * Phía Client
     - Sử dụng GET và POST đúng cách. Dùng GET nếu thao tác là truy vấn dữ liệu (nên thường không dùng token để xác thực). Dùng POST nếu các thao tác tạo ra sự thay đổi hệ thống.
     - Thực hiện các bước xác thực người dùng khác như gửi capcha, thông báo xác nhận qua email, số điện thoại.
 Sử dụng Token: 
