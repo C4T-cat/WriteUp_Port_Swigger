@@ -51,6 +51,6 @@ Sử dụng Token:
 | ✔ | [CSRF where token validation depends on token being present](https://github.com/C4T-cat/WriteUp_Port_Swigger/tree/main/Cross-Site%20Request%20Forgery%20(CSRF)/CSRF%20where%20Referer%20validation%20depends%20on%20header%20being%20present) |
 | ✔ | [CSRF where token is not tied to user session](https://github.com/C4T-cat/WriteUp_Port_Swigger/tree/main/Cross-Site%20Request%20Forgery%20(CSRF)/CSRF%20where%20token%20is%20not%20tied%20to%20user%20session) |
 | ✔ | [CSRF where token is tied to non-session cookie](https://github.com/C4T-cat/WriteUp_Port_Swigger/tree/main/Cross-Site%20Request%20Forgery%20(CSRF)/CSRF%20where%20token%20is%20tied%20to%20non-session%20cookie) |
-| ✔ | [CSRF where token is duplicated in cookie](https://github.com/C4T-cat/WriteUp_Port_Swigger/tree/main/Cross-Site%20Request%20Forgery%20(CSRF)/CSRF%20where%20token%20is%20duplicated%20in%20cookie) |
-| ✔ | [CSRF where Referer validation depends on header being present](https://github.com/C4T-cat/WriteUp_Port_Swigger/tree/main/Cross-Site%20Request%20Forgery%20(CSRF)/CSRF%20where%20token%20validation%20depends%20on%20token%20being%20present) |
-| ✔ | [CSRF with broken Referer validation](https://github.com/C4T-cat/WriteUp_Port_Swigger/tree/main/Cross-Site%20Request%20Forgery%20(CSRF)/CSRF%20with%20broken%20Referer%20validation) |
+| ❌ | [CSRF where token is duplicated in cookie](https://github.com/C4T-cat/WriteUp_Port_Swigger/tree/main/Cross-Site%20Request%20Forgery%20(CSRF)/CSRF%20where%20token%20is%20duplicated%20in%20cookie) |
+| ❌ | [CSRF where Referer validation depends on header being present](https://github.com/C4T-cat/WriteUp_Port_Swigger/tree/main/Cross-Site%20Request%20Forgery%20(CSRF)/CSRF%20where%20token%20validation%20depends%20on%20token%20being%20present) |
+| ❌ | [CSRF with broken Referer validation](https://github.com/C4T-cat/WriteUp_Port_Swigger/tree/main/Cross-Site%20Request%20Forgery%20(CSRF)/CSRF%20with%20broken%20Referer%20validation) |
