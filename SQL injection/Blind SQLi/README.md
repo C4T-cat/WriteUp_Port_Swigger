@@ -6,7 +6,7 @@
 
 ### 3) Khai thác Blind SQLi ⚔
 
-### 4) Ngăn chặn Blind SQLi 🛡
+### 4) Ngăn chặn Blind SQLi 🛡 
 
 ### 5) Writeup các lab trên PortSwigger
 
